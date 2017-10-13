@@ -1,3 +1,3 @@
 ﻿# DLG.dll
-![alt text](https://github.com/weizsw/DLG.dll/blob/master/README.md)
+![](https://github.com/weizsw/DLG.dll/blob/master/Capture1.PNG)
 
