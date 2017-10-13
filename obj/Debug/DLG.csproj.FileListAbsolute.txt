@@ -1,0 +1,6 @@
+C:\Users\weizs\source\repos\DLG\DLG\bin\Debug\DLG.dll
+C:\Users\weizs\source\repos\DLG\DLG\bin\Debug\DLG.pdb
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.csprojResolveAssemblyReference.cache
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.csproj.CoreCompileInputs.cache
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.dll
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.pdb
